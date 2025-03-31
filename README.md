@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=누추한%20곳에%20어쩐일로%20%F0%9F%A4%97&color=gradient&height=300)
 
-:blush:
+:sleeping: 상태창!
+***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingpingeee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
