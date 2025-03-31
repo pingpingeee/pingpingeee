@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=귀한 분이 누추한 곳에 어쩐일로..)
+![header](https://capsule-render.vercel.app/api?type=waving&text=귀한%20분이%20누추한%20곳에%20어쩐일로..)
 
 <!--
 **pingpingeee/pingpingeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
