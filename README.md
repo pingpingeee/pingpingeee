@@ -9,6 +9,8 @@
 
 <div>
   <!--Body-->
+  ## 그나마 있는 능력치
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   
   ## :sleeping: 상태창!
   
