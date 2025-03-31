@@ -10,7 +10,7 @@
 <div>
   <!--Body-->
   
-  ## :pencil2:있어보이게 해본거 다 적어
+  ## :pencil2:있어보이게 해본 거 다 적어
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
