@@ -7,7 +7,7 @@
 😵 **이 페이지는 존재하지 않습니다.**  
 📟 **에러 로그 분석 중...**  
 
-
+---
 
 ## 🚀 Tech Stack 🚀
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
 
-
+---
 
 ## 📊 상태창! 📊
 
