@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚨+Error+404:+Profile+Not+Found!+🚨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=200&section=header&text=🚨%20404%20Error%20Detected!%20🚨&fontSize=40&fontColor=ffffff&animation=blink&desc=System%20Failure...&descAlignY=60&descAlign=50)
 
 <div align="center">
 
