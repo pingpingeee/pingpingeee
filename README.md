@@ -37,8 +37,10 @@
 ## 📊 상태창! 📊
 
 <div align="center">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=pingpingeee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingpingeee&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=pingpingeee&show_icons=true&theme=radical&hide_border=true&border_radius=10">
+  <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pingpingeee&theme=radical&hide_border=true&border_radius=10">
+  <br><br>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pingpingeee&theme=onedark&margin-w=10&no-frame=true">
 </div>
 
 
@@ -47,9 +49,3 @@
 🔄 **[Click Here to Refresh](#)**  
 👨‍💻 **[Check Logs](#)**  
 🏠 **[Go Back to Home](#)**  
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
-</div>
