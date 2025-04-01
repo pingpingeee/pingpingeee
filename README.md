@@ -5,21 +5,20 @@
 
 ## 🛑 Oops! Something went wrong... 🛑  
 😵 **이 페이지는 존재하지 않습니다.**  
-👨‍💻 **하지만 개발자는 코딩 중...**  
 📟 **에러 로그 분석 중...**  
 
 ---
 
 ## 🚀 Tech Stack 🚀
   
-### 📌 **다룰 줄 아는 언어**
+### 📌 **다룰 줄 안다**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 </p>
 
-### 🛠 **DB는 여기 있다**
+### 🛠 **DB다**
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
