@@ -7,7 +7,8 @@
 😵 **이 페이지는 존재하지 않습니다.**  
 📟 **에러 로그 분석 중...**  
 
-
+<br>
+<br>
 
 ## 🚀 Tech Stack 🚀
 
@@ -24,6 +25,8 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
+<br>
+<br>
 
 
 ## 📊 상태창! 📊
@@ -32,7 +35,7 @@
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=pingpingeee&show_icons=true&theme=radical&hide_border=true&border_radius=10">
   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pingpingeee&theme=radical&hide_border=true&border_radius=10">
   <br><br>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pingpingeee&theme=onedark&margin-w=10&no-frame=true">
+ <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=pingpingeee&theme=onedark&margin-w=10&no-frame=true">-->
 </div>
 
 
