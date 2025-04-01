@@ -3,45 +3,39 @@
 
 <div align="center">
 
-## 🛑 Oops! Something went wrong... 🛑  
+# 🛑 Oops! Something went wrong... 🛑  
 😵 **이 페이지는 존재하지 않습니다.**  
 📟 **에러 로그 분석 중...**  
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
 
-      ## 🚀 Tech Stack 🚀
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-      </p>
 
-      ### 🔧 Development Tools  
-      <p>
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-      </p>
+## 🚀 Tech Stack 🚀
 
-    </td>
-    
-    <td valign="top" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+</p>
 
-      ## 📊 GitHub Stats  
-      <div align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pingpingeee&show_icons=true&theme=radical&hide_border=true&border_radius=10">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pingpingeee&theme=radical&hide_border=true&border_radius=10">
-        <br><br>
-        <img src="https://github-profile-trophy.vercel.app/?username=pingpingeee&theme=onedark&margin-w=10&no-frame=true">
-      </div>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+</p>
 
-    </td>
-  </tr>
-</table>
+
+## 📊 상태창! 📊
+
+<div align="center">
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=pingpingeee&show_icons=true&theme=radical&hide_border=true&border_radius=10">
+  <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pingpingeee&theme=radical&hide_border=true&border_radius=10">
+  <br><br>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pingpingeee&theme=onedark&margin-w=10&no-frame=true">
+</div>
+
+
 
 <!--
 ### 🚨 **"Retry?"**
@@ -49,5 +43,3 @@
 👨‍💻 **[Check Logs](#)**  
 🏠 **[Go Back to Home](#)**  
 -->
-
-</div>
