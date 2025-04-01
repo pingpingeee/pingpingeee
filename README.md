@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=200&section=header&text=🚨%20404%20Error%20Detected!%20🚨&fontSize=40&fontColor=FFD700&animation=blink&desc=System%20Failure...&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=200&section=header&text=🚨%20404%20Error%20Detected!%20🚨&fontSize=40&fontColor=FFD700&animation=blinking&desc=System%20Failure...&descAlignY=60&descAlign=50)
 
 <div align="center">
 
