@@ -4,7 +4,7 @@
   
   <!--Header-->
   
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=누추한%20곳에%20어쩐일로%20%F0%9F%A4%97&stroke=000000&fontSize=20&descSize=30)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=누추한%20곳에%20어쩐일로%20%F0%9F%A4%97&stroke=000000&fontSize=20&animation=fadeIn)
 
 <!--   ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=누추한%20곳에%20어쩐일로%20%F0%9F%A4%97&textColor=black) -->
 
