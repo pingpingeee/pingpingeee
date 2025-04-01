@@ -7,10 +7,7 @@
 😵 **이 페이지는 존재하지 않습니다.**  
 📟 **에러 로그 분석 중...**  
 
----
-
-## 🚀 Tech Stack 🚀
-
+## 🚀 Tech Stack 🚀  
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -19,13 +16,13 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 </p>
 
+### 🔧 Development Tools  
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
 
----
 
 ## 📊 상태창! 📊
 
